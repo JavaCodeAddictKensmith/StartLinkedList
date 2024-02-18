@@ -1,0 +1,15 @@
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/bin/Debug/net7.0/LinkedListDSAImpl
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/bin/Debug/net7.0/LinkedListDSAImpl.deps.json
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/bin/Debug/net7.0/LinkedListDSAImpl.runtimeconfig.json
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/bin/Debug/net7.0/LinkedListDSAImpl.dll
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/bin/Debug/net7.0/LinkedListDSAImpl.pdb
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.csproj.AssemblyReference.cache
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.AssemblyInfoInputs.cache
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.AssemblyInfo.cs
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.dll
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/refint/LinkedListDSAImpl.dll
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.pdb
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/LinkedListDSAImpl.genruntimeconfig.cache
+/Users/mac/Documents/LinkedListDSAImpl/LinkedListDSAImpl/obj/Debug/net7.0/ref/LinkedListDSAImpl.dll
